@@ -1,4 +1,4 @@
-Binaries/
-Debug/
-.metadata/
-.settings/
+ExampleProject/Binaries
+ExampleProject/Debug
+ExampleProject/.metadata
+ExampleProject/.settings
